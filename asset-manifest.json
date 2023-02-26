@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Arka90/contact-list/static/css/main.1fa725cc.css",
+    "main.js": "/Arka90/contact-list/static/js/main.912b36ef.js",
+    "static/media/ab.jpg": "/Arka90/contact-list/static/media/ab.0c7405782abccb519eb8.jpg",
+    "index.html": "/Arka90/contact-list/index.html",
+    "main.1fa725cc.css.map": "/Arka90/contact-list/static/css/main.1fa725cc.css.map",
+    "main.912b36ef.js.map": "/Arka90/contact-list/static/js/main.912b36ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1fa725cc.css",
+    "static/js/main.912b36ef.js"
+  ]
+}
